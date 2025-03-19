@@ -1,5 +1,7 @@
 ---
 title: OpenCvSharp 2.x -> 4.x 버전 변경 (1)
+date: 2025-03-19
+permalink: /posts/my-new-post
 ---
 
 <h1>OpenCvSharp 버전 변경</h1>
